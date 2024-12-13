@@ -1,0 +1,12 @@
+{
+    "name": "osfy/phpiggy",
+    "description": "A simple PHP Application.",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/Framework",
+            "App\\": "src/App"
+        }
+    }
+}
